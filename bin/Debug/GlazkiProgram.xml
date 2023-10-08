@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GlazkiProgram</name>
+    </assembly>
+    <members>
+        <member name="T:GlazkiProgram.pages.AddPage">
+            <summary>
+            AddPage
+            </summary>
+        </member>
+        <member name="M:GlazkiProgram.pages.AddPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GlazkiProgram.pages.AddPageAgent">
+            <summary>
+            AddPageAgent
+            </summary>
+        </member>
+        <member name="M:GlazkiProgram.pages.AddPageAgent.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GlazkiProgram.pages.AgentsPage">
+            <summary>
+            AgentsPage
+            </summary>
+        </member>
+        <member name="M:GlazkiProgram.pages.AgentsPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GlazkiProgram.pages.StartPage">
+            <summary>
+            StartPage
+            </summary>
+        </member>
+        <member name="M:GlazkiProgram.pages.StartPage.AgentBtn_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            функция делает чтоб показывает страницу по верх окна
+            </summary>
+            <param name="sender">dfgfgg</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GlazkiProgram.pages.StartPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GlazkiProgram.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:GlazkiProgram.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:GlazkiProgram.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:GlazkiProgram.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:GlazkiProgram.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GlazkiProgram.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:GlazkiProgram.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:GlazkiProgram.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>
